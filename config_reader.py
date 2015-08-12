@@ -115,6 +115,6 @@ def check_local_path(local_path):
 #load_upload_config("apache-tomcat-8.0.9", upload_config_path="test-upload_config.yaml")
 
 
-conf = open("test.yaml", 'r')
-a=load(conf, Loader)
-pass
+#conf = open("test.yaml", 'r')
+#a=load(conf, Loader)
+#pass
