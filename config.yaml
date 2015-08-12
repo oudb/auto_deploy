@@ -1,0 +1,7 @@
+perfix_path: /usr/local
+
+hosts:
+  x.x.x.x:
+  - apache-tomcat-8.0.9
+  - apache-tomcat-8.0.9-02
+
